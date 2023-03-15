@@ -1,1 +1,1 @@
-print("Nikita is gay")
+print("Nikita + Denis are gays")
